@@ -1,5 +1,5 @@
 # odin-recipes
-:Q!
 
-C
-odin-recipEs
+odin-recipes
+
+this is a better edit using nano instead of vi
