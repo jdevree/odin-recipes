@@ -1,0 +1,29 @@
+body{
+    background-color: #BDCABE;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   
+      
+      
+}
+h1{
+    color: hsl(0, 0%, 0%);
+    font-weight: 800;
+    background-color: #355E3B
+}
+
+.test1 {
+    color: hsl(295, 70%, 42%);
+    font-weight: 800;}
+
+    .Ingredients {
+        color: hsl(295, 70%, 42%);
+        font-weight: 800;}
+
+        .Ingredients2 {
+            color: hsl(295, 70%, 42%);
+            font-weight: 800;}
+/*img {
+
+    width: 500px;
+  
+  }/*
